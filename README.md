@@ -28,4 +28,6 @@ make test
 The following improvements could be made:
 
 - Tests for the `api` and `repository` packages. Tests are currently only done for the `core` package.
-- 
+- There are a few places markes `IMPROVEMENTS` in the code where the code could be improved with indications on what should be done.
+- Setup a CI/CD pipeline to run the tests and build the project.
+- Add a Dockerfile to build a Docker image for the project.
